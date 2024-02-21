@@ -1,6 +1,8 @@
 ﻿# FaceLite Project
 
 Social media applications have become a crucial part of our daily lives. It helps us connect with people and share updates. In this project, we create a social networking platform called **FaceLite**. It is a very simple platform where users can create profiles. In this profile, they can follow friends, update their profile image, and share their current status.
+
+
 **Created by:** Leen Ghazi & Reyouf Albogomi
 
 
